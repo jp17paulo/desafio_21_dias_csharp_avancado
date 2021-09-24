@@ -11,3 +11,16 @@ C:\Users\joaop\source\repos\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interf
 C:\Users\joaop\source\repos\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
 C:\Users\joaop\source\repos\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
 C:\Users\joaop\source\repos\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
+C:\Dropbox\Torne-se_um_programador\CSharp\desafio_21_dias_csharp_avancado\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Dropbox\Torne-se_um_programador\CSharp\desafio_21_dias_csharp_avancado\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Dropbox\Torne-se_um_programador\CSharp\desafio_21_dias_csharp_avancado\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Dropbox\Torne-se_um_programador\CSharp\desafio_21_dias_csharp_avancado\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Dropbox\Torne-se_um_programador\CSharp\desafio_21_dias_csharp_avancado\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Dropbox\Torne-se_um_programador\CSharp\desafio_21_dias_csharp_avancado\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Dropbox\Torne-se_um_programador\CSharp\desafio_21_dias_csharp_avancado\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Dropbox\Torne-se_um_programador\CSharp\desafio_21_dias_csharp_avancado\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Dropbox\Torne-se_um_programador\CSharp\desafio_21_dias_csharp_avancado\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Dropbox\Torne-se_um_programador\CSharp\desafio_21_dias_csharp_avancado\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Dropbox\Torne-se_um_programador\CSharp\desafio_21_dias_csharp_avancado\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Dropbox\Torne-se_um_programador\CSharp\desafio_21_dias_csharp_avancado\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Dropbox\Torne-se_um_programador\CSharp\desafio_21_dias_csharp_avancado\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

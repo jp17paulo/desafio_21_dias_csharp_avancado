@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaop\\source\\repos\\Interfaces\\Interfaces\\Interfaces.csproj",
+      "projectUniqueName": "C:\\Dropbox\\Torne-se_um_programador\\CSharp\\desafio_21_dias_csharp_avancado\\Interfaces\\Interfaces\\Interfaces.csproj",
       "projectName": "Interfaces",
-      "projectPath": "C:\\Users\\joaop\\source\\repos\\Interfaces\\Interfaces\\Interfaces.csproj",
+      "projectPath": "C:\\Dropbox\\Torne-se_um_programador\\CSharp\\desafio_21_dias_csharp_avancado\\Interfaces\\Interfaces\\Interfaces.csproj",
       "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaop\\source\\repos\\Interfaces\\Interfaces\\obj\\",
+      "outputPath": "C:\\Dropbox\\Torne-se_um_programador\\CSharp\\desafio_21_dias_csharp_avancado\\Interfaces\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
